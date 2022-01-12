@@ -96,6 +96,7 @@
 // const message = `Total Amount is ${num1 + num2}`
 // alert(message)
 
+//
 
 const obj1 = {
     name: "Ali",
