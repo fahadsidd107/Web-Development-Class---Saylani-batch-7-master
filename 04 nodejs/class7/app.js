@@ -5,7 +5,7 @@ const userModel = require("./userSchema");
 const cors = require("cors");
 
 // we imported express and set up a new express 
-// instance const app = express().
+// instance const app = express()
 const app = express();
 const v1auth = require("./routes/v1authRoutes");
 const auth = require("./routes/authRoutes");
